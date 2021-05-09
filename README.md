@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nauã</h1>
 <h3 align="center">currently working with javascript for mobile development using react-native</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naua-stack" alt="naua-stack" /></a> </p>
-
 - 🔭 I’m currently working on **Mobile Apps**
 
 - 🌱 I’m currently learning **React Native, React**
 
 - 🤝 I’m looking for help with **Redux**
 
-- 📫 How to reach me **nauafernandesvv@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/nauã-fernandes-664812196/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nauã-fernandes-664812196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="nauã-fernandes-664812196" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nauã fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="nauã fernandes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naua-stack&show_icons=true&locale=en" alt="naua-stack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naua-stack&" alt="naua-stack" /></p>
+
 
